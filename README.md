@@ -3,18 +3,39 @@
 
 Usando a tecnologia para auxiliar na segurança de todos e aumento das vendas em lojas físicas após o Covid-19.
 
-## Gráficos da pesquisa
+Natura 4.0
++segurança e experiência
+
+O novo normal pede mudanças de comportamento e no atendimento das lojas físicas
+
+38% que realizam compras em lojas de rua ou no shopping, 75% se preocupam com o vírus e destas mais de 80% evitam estabelecimentos que tiverem com muito movimento ou filas extensas. 
+
+Portanto deve ser controlado o número de pessoas, e filas para que os clientes voltem a realizar as compras e ter uma boa experiência.
+
+Foi pensado nisto que criamos a Natura 4.0.
+Utilizamos o monitoramento através da Inteligência Artificial que interage com a plataforma Eugênio e os dispositivos IOT da loja. 
+
+Como proposta de valor oferecemos maior transparência e segurança para os clientes e para o lojista uma comunicação informativa e interativa com o seu público.
+
+As informações e interações se realizam na entrada da loja. Onde há o tempo estimado para ter um público menor, imagem do Qrcode para abrir o atendimento do chatbot e publicidade direcionada ao público.
+
+Na entrada ainda pode haver alertas sonoros além de visuais que detectam o movimento.
+
+O cliente, consegue realizar o agendamento do atendimento e receber notificações via whatsapp.
+
+Pelo painel de controle, o lojista consegue visualizar ohistórico de ocupação x vendas, agendamento e atendimentos via chatbot.
+
+No roadmap, avançar na Inteligência Artificial para encontrar perfis sem identificar clientes, cruzar dados das vendas offline e online e oferecer produtos deste perfil.
+
+Nosso time está pronto para continuar!
+
+
+
 [Veja e interaja com os resultados da pesquisa](https://datastudio.google.com/reporting/6d2e187e-4cb5-481c-8a21-a4f793755403)
 
-[Video do Pitch](https://spark.adobe.com/video/cghgY82526Ye4)
+[Pitch Youtube](https://youtu.be/dn4l826M4-Q)
 
-o utiliza monitoramento através da Inteligência Artificial que interage com a plataforma Eugênio e os dispositivos IOT na loja. Trazendo segurança para todos, transparência e aumentando a experiência dos clientes e potencializando as vendas.
-
-[Pesquisa](http://bit.ly/natura4pesquisa)
-
-[youtubue](https://youtu.be/APiwuBKpx9w)
-
-[Youtube](https://youtu.be/dn4l826M4-Q)
+[Demo youtube](https://youtu.be/APiwuBKpx9w)
 
 
 ## Available Scripts
