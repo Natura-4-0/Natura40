@@ -1,3 +1,16 @@
+# Natura-4.0
+<img src="https://github.com/Natura-4-0/Natura-4.0/blob/main/LOGO-NATURA-4.0.png" width="50%:"  height="50%" alt="Logo Natura 4.0">
+
+Usando a tecnologia para auxiliar na segurança de todos e aumento das vendas em lojas físicas após o Covid-19.
+
+## Gráficos da pesquisa
+[Veja e interaja com os resultados da pesquisa](https://datastudio.google.com/reporting/6d2e187e-4cb5-481c-8a21-a4f793755403)
+
+[Video do Pitch](https://spark.adobe.com/video/cghgY82526Ye4)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
