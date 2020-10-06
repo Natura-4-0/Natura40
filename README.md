@@ -8,10 +8,14 @@ Usando a tecnologia para auxiliar na segurança de todos e aumento das vendas em
 
 [Video do Pitch](https://spark.adobe.com/video/cghgY82526Ye4)
 
+o utiliza monitoramento através da Inteligência Artificial que interage com a plataforma Eugênio e os dispositivos IOT na loja. Trazendo segurança para todos, transparência e aumentando a experiência dos clientes e potencializando as vendas.
 
+[Pesquisa](http://bit.ly/natura4pesquisa)
 
+[youtubue](https://youtu.be/APiwuBKpx9w)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Youtube](https://youtu.be/dn4l826M4-Q)
+
 
 ## Available Scripts
 
